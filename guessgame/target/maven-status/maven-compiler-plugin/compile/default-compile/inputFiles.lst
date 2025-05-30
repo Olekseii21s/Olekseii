@@ -1,0 +1,15 @@
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\config\AuthController.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\config\SecurityConfig.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\controller\GameController.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\controller\UserController.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\dto\GuessRequest.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\dto\GuessResponse.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\dto\NewGameResponse.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\dto\UserDto.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\GuessgameApplication.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\model\Game.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\model\User.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\repository\GameRepository.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\repository\UserRepository.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\service\GameService.java
+C:\Users\petro\OneDrive\Desktop\guessgame\src\main\java\com\guessgame\guessgame\service\UserService.java
